@@ -11,7 +11,7 @@ It contains several mods already, the basis is the 400mm VCore-3 from RatRig [ht
     *  [RatRig V-Core 3 enclosure handles](https://www.prusaprinters.org/prints/110667-ratrig-v-core-3-enclosure-handles)
     *  Motor Cage with Lips
     *  Stronger Pillow Blocks
-  * MBFS
+  * MFBS
     * [LGX Lite Fast-Swap-Rigid Gold Series EVA mod](https://www.thingiverse.com/thing:5207408)
     * [Gold Series Rat Rig V-Core 3, XY joiners with clamping mod](https://www.thingiverse.com/thing:4947482)
   * ...and some smaller ones ;)
