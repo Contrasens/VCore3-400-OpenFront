@@ -7,4 +7,13 @@ It contains several mods already, the basis is the 400mm VCore-3 from RatRig [ht
 * OpenFront Mod: [https://www.thingiverse.com/thing:5140728](https://www.thingiverse.com/thing:5140728)
 * Various smaller mods from users of the RatRig community:
   * Jevermeister
+    *  [RatRig V-Core 3 Bed Arms heat-set insert mod](https://www.prusaprinters.org/prints/145226-ratrig-v-core-3-bed-arms-heat-set-insert-mod)
+    *  [RatRig V-Core 3 enclosure handles](https://www.prusaprinters.org/prints/110667-ratrig-v-core-3-enclosure-handles)
+    *  Motor Cage with Lips
+    *  Stronger Pillow Blocks
   * MBFS
+    * [LGX Lite Fast-Swap-Rigid Gold Series EVA mod](https://www.thingiverse.com/thing:5207408)
+    * [Gold Series Rat Rig V-Core 3, XY joiners with clamping mod](https://www.thingiverse.com/thing:4947482)
+  * ...and some smaller ones ;)
+
+Many thanks to everybody investing lots of work to make this great 3D printer an even better one!
