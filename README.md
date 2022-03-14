@@ -17,3 +17,6 @@ It contains several mods already, the basis is the 400mm VCore-3 from RatRig [ht
   * ...and some smaller ones ;)
 
 Many thanks to everybody investing lots of work to make this great 3D printer an even better one!
+
+![image info](pics/front.png)
+![image info](pics/back.png)
