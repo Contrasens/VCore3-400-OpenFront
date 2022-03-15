@@ -21,4 +21,4 @@ Many thanks to everybody investing lots of work to make this great 3D printer an
 ![Front View](pics/front.png)
 ![Back View](pics/back.png)
 Here is the wiring diagram I will be using. **If you decide to use it, please acknowledge that you are doing this on your own risk!**
-![Wiring](pics/VCore3_wiring.png)
+![Wiring](wiring/VCore3_wiring.png)
