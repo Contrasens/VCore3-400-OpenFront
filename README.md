@@ -17,7 +17,14 @@ It contains several mods already, the basis is the 400mm VCore-3 from RatRig [ht
 
 Many thanks to everybody investing lots of work to make this great 3D printer an even better one!
 
+## Looks
 ![Front View](pics/front.png)
 ![Back View](pics/back.png)
 Here is the wiring diagram I will be using. **If you decide to use it, please acknowledge that you are doing this on your own risk!**
 ![Wiring](wiring/VCore3_wiring.png)
+
+## BOM
+Here is my Bill of Material (BOM): [GoogleDrive](https://docs.google.com/spreadsheets/d/1t07DfJ-j9_pQZ918qX5IQbVI45c6goUu2t6Ui3eUhBY/edit?usp=sharing)
+
+## Current Looks
+Coming soon...
