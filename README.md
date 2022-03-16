@@ -8,7 +8,6 @@ It contains several mods already, the basis is the 400mm VCore-3 from RatRig [ht
 * Various smaller mods from users of the RatRig community:
   * Jevermeister
     *  [RatRig V-Core 3 Bed Arms heat-set insert mod](https://www.prusaprinters.org/prints/145226-ratrig-v-core-3-bed-arms-heat-set-insert-mod)
-    *  [RatRig V-Core 3 enclosure handles](https://www.prusaprinters.org/prints/110667-ratrig-v-core-3-enclosure-handles)
     *  Motor Cage with Lips
     *  Stronger Pillow Blocks
   * MFBS
