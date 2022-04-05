@@ -8,12 +8,13 @@ It contains several mods already, the basis is the 400mm VCore-3 from RatRig [ht
 * Various smaller mods from users of the RatRig community:
   * Jevermeister
     *  [RatRig V-Core 3 Bed Arms heat-set insert mod](https://www.prusaprinters.org/prints/145226-ratrig-v-core-3-bed-arms-heat-set-insert-mod)
-    *  Motor Cage with Lips
+    *  [RatRig V-Core 3 reinforced and sealed rear motor mount](https://www.printables.com/model/158467-ratrig-v-core-3-reinforced-and-sealed-rear-motor-m)
     *  Stronger Pillow Blocks
   * MFBS
     * [LGX Lite Fast-Swap-Rigid Gold Series EVA mod](https://www.thingiverse.com/thing:5207408)
     * [Gold Series Rat Rig V-Core 3, XY joiners with clamping mod](https://www.thingiverse.com/thing:4947482)
-  * ...and some smaller ones ;)
+  * ...and some smaller ones, such as (but not limited to):
+    * [RatRig V-Core 3 IEC Adapter remix](https://www.printables.com/model/137719-ratrig-v-core-3-iec-adapter-remix)
 
 Many thanks to everybody investing lots of work to make this great 3D printer an even better one!
 
@@ -21,7 +22,7 @@ Many thanks to everybody investing lots of work to make this great 3D printer an
 ![Front View](pics/front.png)
 ![Back View](pics/back.png)
 Here is the wiring diagram I will be using. **If you decide to use it, please acknowledge that you are doing this on your own risk!**
-![Wiring](wiring/VCore3_wiring.png)
+![Wiringbla](wiring/VCore3_wiring.png)
 
 ## BOM
 Here is my Bill of Material (BOM): [GoogleDrive](https://docs.google.com/spreadsheets/d/1t07DfJ-j9_pQZ918qX5IQbVI45c6goUu2t6Ui3eUhBY/edit?usp=sharing)
