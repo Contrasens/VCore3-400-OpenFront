@@ -13,6 +13,11 @@ It contains several mods already, the basis is the 400mm VCore-3 from RatRig [ht
   * MFBS
     * [LGX Lite Fast-Swap-Rigid Gold Series EVA mod](https://www.thingiverse.com/thing:5207408)
     * [Gold Series Rat Rig V-Core 3, XY joiners with clamping mod](https://www.thingiverse.com/thing:4947482)
+  * my own
+    * [DIN Rail Endcaps for M6x12 Cap Screws](https://www.printables.com/model/152627-din-rail-endcaps-for-m6x12-cap-screws)
+    * [DIN Rail Adapter for Meanwell RS-25-5](https://www.printables.com/model/152624-din-rail-adapter-for-meanwell-rs-25-5)
+    * [DIN Rail Adapter for Meanwell LRS-200-24 for V-Core3 400](https://www.printables.com/model/152620-din-rail-adapter-for-meanwell-lrs-200-24-for-v-cor)
+    * [Fastener for Igus Chain on VCore3](https://www.printables.com/model/145317-fastener-for-igus-chain-on-vcore3)
   * ...and some smaller ones, such as (but not limited to):
     * [RatRig V-Core 3 IEC Adapter remix](https://www.printables.com/model/137719-ratrig-v-core-3-iec-adapter-remix)
 
