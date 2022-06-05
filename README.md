@@ -35,7 +35,11 @@ Here is my Bill of Material (BOM): [GoogleDrive](https://docs.google.com/spreads
 ## Loveboard to Igus CF9 Cable to PTFIX 
 Here is the matching between the Loaveboard 20p MOLEX to the Igus CF9 cable colors and PTFIX: [GoogleDrive](https://docs.google.com/spreadsheets/d/14HSkR9IJcxvyp0iN5hX_ws5Iole1--FCSVv5XQ0tlTc/edit?usp=sharing)
 
+## Printhead
+![Printhead1](pics/printhead1.jpg)
+![Printhead2](pics/printhead2.jpg)
+![Printhead3](pics/printhead3.jpg)
+
 ## Current Looks
-Coming soon...
 ![Bottom](pics/bottom.jpg)
 ![ePanel](pics/e-panel.jpg)
