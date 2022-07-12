@@ -25,6 +25,7 @@ Many thanks to everybody investing lots of work to make this great 3D printer an
 
 ## Looks
 ![Front View](pics/front.png)
+![Enclosure](pics/enclosure.png)
 ![Back View](pics/back.png)
 Here is the wiring diagram I will be using. **If you decide to use it, please acknowledge that you are doing this on your own risk!**
 ![Wiring](wiring/VCore3_wiring.drawio.png)
@@ -36,9 +37,7 @@ Here is my Bill of Material (BOM): [GoogleDrive](https://docs.google.com/spreads
 Here is the matching between the Loaveboard 20p MOLEX to the Igus CF9 cable colors and PTFIX: [GoogleDrive](https://docs.google.com/spreadsheets/d/14HSkR9IJcxvyp0iN5hX_ws5Iole1--FCSVv5XQ0tlTc/edit?usp=sharing)
 
 ## Printhead
-![Printhead1](pics/printhead1.jpg)
-![Printhead2](pics/printhead2.jpg)
-![Printhead3](pics/printhead3.jpg)
+![Printhead](pics/printhead.png)
 
 ## Current Looks
 ![Bottom](pics/bottom.jpg)
